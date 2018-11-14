@@ -1,0 +1,23 @@
+.header {
+    background-image: url("img/uno.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 1700px;
+    background-attachment: fixed;
+}
+
+.contenido {
+    background-image: url("img/dos.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 1700px;
+    background-attachment: fixed;
+}
+
+.footerdos {
+    background-image: url("img/tres.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 1700px;
+    background-attachment: fixed;
+}
